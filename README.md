@@ -1,32 +1,65 @@
-# E-Commerce-Website
+# 🛒 E-Commerce Website
 
-This project entails the development of a comprehensive e-commerce website, fulfilling course requirements under the guidance of an instructor. The website leverages HTML, CSS, and Bootstrap to deliver a visually appealing and responsive user interface, while JavaScript is employed for backend functionality, facilitating dynamic user interactions and seamless operation.
+A fully responsive static e-commerce frontend built with HTML, CSS, and Bootstrap. Designed and developed as part of an internship project at Internship Studio (2021–2022).
 
-Key features of the project include:
+---
 
-User Interface Design: 
-Utilization of HTML, CSS, and Bootstrap to create an intuitive and visually engaging interface. The design is optimized for responsiveness, ensuring compatibility and optimal performance.
+## ✨ Features
 
-User Authentication and Management: 
-Implementation of secure user authentication processes, including registration, login, and password recovery features, to ensure the security and privacy of user data.
+- Responsive layout across mobile, tablet, and desktop
+- Product listing page with card-based UI
+- Shopping cart page with item summary
+- User registration and login forms with client-side validation
+- Checkout flow with order summary UI
+- Clean navigation with Bootstrap components
 
-Product Catalog and Search Functionality:
-Development of a dynamic product catalog that allows users to browse and search for items easily. The search functionality includes filtering and sorting options to enhance the shopping experience.
+---
 
-Shopping Cart and Checkout Process:
-Creation of a seamless shopping cart and checkout process, enabling users to add, update, or remove items from their cart and complete their purchases efficiently. The checkout process includes order summary, payment integration, and confirmation notifications.
+## 🛠️ Tech Stack
 
-Order Management: 
-Backend functionalities for processing orders, including order tracking, status updates, and handling of payment transactions. This ensures a smooth and reliable purchase process for customers.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Data Storage and Retrieval:
-Integration of efficient data storage solutions for managing product information, user details, and transaction records. This includes mechanisms for data retrieval and updates to maintain an up-to-date database.
+---
 
-Performance Optimization: 
-Techniques to optimize website performance, including minimizing load times, ensuring fast response rates, and implementing caching strategies to enhance user experience.
+## 🚀 Getting Started
 
-Testing and Debugging:
-Rigorous testing procedures to identify and fix bugs, ensuring the reliability and stability of the website. This includes both automated and manual testing methods.
+No build tools required. Just open the files in a browser:
 
-The project demonstrates a cohesive integration of frontend and backend technologies, showcasing the ability to build and manage a fully functional e-commerce platform. The implementation underscores the importance of responsive design, user experience, security, and reliable data management in modern web development.
+```bash
+git clone https://github.com/jatinraj2407/E-Commerce-Website.git
+cd E-Commerce-Website
+# Open index.html in your browser
+```
 
+---
+
+## 📁 Project Structure
+
+```
+E-commerce website/
+├── index.html          # Homepage
+├── products.html       # Product listing
+├── cart.html           # Shopping cart
+├── login.html          # Login page
+├── register.html       # Registration page
+├── checkout.html       # Checkout flow
+├── style.css           # Main stylesheet
+└── assets/             # Images and icons
+```
+
+---
+
+## 📌 Note
+
+This is a frontend-only project — it uses static HTML/CSS/JS with no backend or database. It was built to demonstrate responsive UI design, Bootstrap layout skills, and form handling using vanilla JavaScript.
+
+---
+
+## 👤 Author
+
+**T Jatin Raj**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-raj-8667651b7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jatinraj2407)
